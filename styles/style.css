@@ -33,3 +33,9 @@ body{
     bottom: 45px;
 
 }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
