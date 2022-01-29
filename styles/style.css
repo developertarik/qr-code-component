@@ -22,6 +22,7 @@ body{
 .header-desc{
     color :hsl(218, 44%, 22%);
     font-family:"Outfit",sans-serif ;
+    text-align:center;
 }
 .header2-desc{
     color:hsl(220, 15%, 55%);
