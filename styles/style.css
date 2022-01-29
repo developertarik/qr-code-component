@@ -12,7 +12,7 @@ body{
     background: hsl(212, 45%, 89%);
 }
 .qr-code{
-    width: 350px;
+    width: 300px;
     border-radius: 10px;
     margin-left:23px;
     margin-top: 10px;
