@@ -5,9 +5,9 @@
     background-color: white;
     height: 500px; 
     width:22rem; 
-    border-radius: 10px;    
+    border-radius: 15px;    
     position:relative;
-    top:60px;
+    top:100px;
 }
 body{
     font-size:15px;
