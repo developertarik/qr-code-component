@@ -7,7 +7,7 @@
     width:22rem; 
     border-radius: 15px;    
     position:relative;
-    top:100px;
+    top:120px;
 }
 body{
     font-size:15px;
@@ -17,7 +17,7 @@ body{
     width: 300px;
     border-radius: 10px;
     margin-left:23px;
-    margin-top: 10px;
+    margin-top: 13px;
 }
 .header-desc{
     color :hsl(218, 44%, 22%);
